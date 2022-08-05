@@ -1,0 +1,25 @@
+.textBoxes {
+
+  text-align: center;
+  display: flex;
+  justify-content: center;
+
+}
+
+.textBoxOne {
+
+  margin: 2%;
+
+}
+
+.textBoxTwo {
+
+  margin: 2%;
+
+}
+
+textarea {
+  resize: none;
+  width: 150px;
+  display:inline-block;
+}
