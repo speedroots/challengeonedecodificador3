@@ -74,3 +74,16 @@ function Decriptografia(){
 	textValueDecripted.value = decriptedText
 
 }
+
+function textCopy(target) {
+
+    let getTextFromTextArea = document.getElementById(target);
+
+    getTextFromTextArea.select();
+
+    getTextFromTextArea.setSelectionRange(0, getTextFromTextArea.value.length)
+    document.execCommand("copy");
+
+    alert("O texto é: " + getTextFromTextArea.value);
+
+}

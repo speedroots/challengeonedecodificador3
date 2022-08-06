@@ -1,8 +1,24 @@
+body {
+
+  width: 99%;
+  height: 100%;
+  background: rgba(79,31,210,1);
+
+}
+
+.mainDiv {
+
+  width: 99%;
+  height: 100%;
+  padding-top: -100px;
+}
+
 .textBoxes {
 
   text-align: center;
   display: flex;
   justify-content: center;
+
 
 }
 
@@ -18,8 +34,163 @@
 
 }
 
+.areaOne {
+
+  background: rgba(255,255,255,0.5);
+  color: black;
+
+}
+
+.areaTwo {
+
+  background: rgba(255,255,255,0.5);
+  color: black;
+
+}
+
 textarea {
+
   resize: none;
-  width: 150px;
+  width: 100%;
   display:inline-block;
+  font-size: 24px;
+  border: 2px solid black;
+  border-radius: 10px;
+
+}
+
+.bothButtons {
+
+  display: flex;
+  padding: 1% 0;
+  
+}
+
+.criptoButton {
+
+  /* Button */
+
+  box-sizing: border-box;
+
+  /* Auto layout */
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 2%;
+  gap: 8px;
+
+  width: 45%;
+  height: 10%;
+
+  /* Light gray */
+  background: #D8DFE8;
+  color: black;
+  /* Dark blue/dark-blue-300 */
+  border: 2px solid black;
+  border-radius: 24px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+
+
+  /* Button */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 19px;
+  
+  margin-left: 1%;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+  text-align: center;
+
+
+}
+
+.criptoButton:hover {
+  background: #0A3871;
+  color: white;
+  border: 2px solid black;
+}
+
+.criptoButton:active{
+
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+.decriptoButton {
+
+  /* Button */
+
+  box-sizing: border-box;
+
+  /* Auto layout */
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 2%;
+  gap: 8px;
+
+  width: 45%;
+  height: 10%;
+
+  /* Light gray */
+  background: #D8DFE8;
+  /* Dark blue/dark-blue-300 */
+  border: 2px solid black;
+  border-radius: 24px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+
+
+  /* Button */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 19px;
+  margin-left: 2%;
+  
+
+  /* Dark blue/dark-blue-300 */
+  color: black;
+
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+  text-align: center;
+
+  
+}
+
+.decriptoButton:hover {
+  background: #0A3871;
+  color: white;
+  border: 2px solid black;
+}
+
+.decriptoButton:active{
+
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+footer {
+
+  
+  width: 100%;
+  background-color: #0A3871;
+
 }
