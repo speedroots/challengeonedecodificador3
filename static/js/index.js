@@ -84,6 +84,6 @@ function textCopy(target) {
     getTextFromTextArea.setSelectionRange(0, getTextFromTextArea.value.length)
     document.execCommand("copy");
 
-    alert("O texto é: " + getTextFromTextArea.value);
+    alert("Texto copiado para a área de transferência. Utilize o CTRL + V para visualizá-lo.");
 
 }
