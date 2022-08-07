@@ -27,4 +27,4 @@ https://speedroots.github.io/challengeonedecodificador3/
 
 ## Gift Owned:
 
-![Obtained badge after challenge acomplished](https://drive.google.com/file/d/18xNLkF_biuz4K_VMDgAQI7sd8jzeHzG0/view?usp=sharing)
+[<img src="https://drive.google.com/file/d/18xNLkF_biuz4K_VMDgAQI7sd8jzeHzG0/" width=115><br><sub>Obtained badge after challenge acomplished</sub>]
