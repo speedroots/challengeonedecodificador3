@@ -5,7 +5,14 @@
 :hammer: Primaries Goals:
 
 - `Encryption Function`: Receive some readable text for humans from user in the left textarea then encrypt, following defined rules to do that.
-- `Decryption Function`: Receive some readable text for humans from user in the right textarea then decrypt, following defined rules to do that.
+- `Decryption Function`: Receive some unreadable text for humans from user in the right textarea then decrypt, following defined rules to do that.
+
+- `Encryption <> Decryption `
+- `a <=> ai`
+- `e <=> enter`
+- `i <=> imes`
+- `o <=> ober`
+- `u <=> ufat`
 
 :hammer: Secondary Goals:
 
