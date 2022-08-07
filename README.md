@@ -27,4 +27,4 @@ https://speedroots.github.io/challengeonedecodificador3/
 
 ## Gift Owned:
 
-![Obtained badge after challenge acomplished](https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1659462279Badge_Sharer_Alura_ChallengeOracleONE_2000x2000_V3.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_br&utm_medium=email&utm_source=RD+Station)
+![Obtained badge after challenge acomplished](https://drive.google.com/file/d/18xNLkF_biuz4K_VMDgAQI7sd8jzeHzG0/view?usp=sharing)
