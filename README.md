@@ -27,4 +27,4 @@ https://speedroots.github.io/challengeonedecodificador3/
 
 ## Gift Owned:
 
-[<img src="https://ibb.co/KNtNSDd" width=115><br><sub>Obtained badge after challenge acomplished</sub>]
+[<img src="https://i.ibb.co/f838L9f/alura-badge.png" width=115><br><sub>Obtained badge after challenge acomplished</sub>]
