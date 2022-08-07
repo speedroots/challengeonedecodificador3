@@ -23,7 +23,7 @@ https://speedroots.github.io/challengeonedecodificador3/
 
 ## Author:
 
-| [<img src="https://avatars.githubusercontent.com/u/10127613?v=4" width=115><br><sub>Rafael Marques de Almeida</sub>](https://github.com/speedroots) |
+[<img src="https://avatars.githubusercontent.com/u/10127613?v=4" width=115><br><sub>Rafael Marques de Almeida</sub>](https://github.com/speedroots)
 
 ## Gift Owned:
 
